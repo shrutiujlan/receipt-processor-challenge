@@ -2,15 +2,19 @@
 
 #### Step to Run the Application
 
-- Clone the repository and navigate to the project root directory.
+# Receipt Processor Challenge
 
-- Ensure the shell script is executable:
+## Steps to Run the Application
 
-chmod +x run_docker_app.sh
+1. Clone the repository and navigate to the project root directory.
+2. Ensure the shell script is executable:
+   ```sh
+   chmod +x run_docker_app.sh
 
-- Run the application:
-
+3. Run the application:
+```sh
 ./run_docker_app.sh
+```
 
 This script will build the Docker image and start the container. 
 The application will be accessible at http://localhost:8080.
