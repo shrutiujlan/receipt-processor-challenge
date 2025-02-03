@@ -1,0 +1,7 @@
+/Users/shrutiujlan/Documents/work/projects/receipt-processor/src/main/java/com/project/receiptprocessor/ReceiptProcessorApplication.java
+/Users/shrutiujlan/Documents/work/projects/receipt-processor/src/main/java/com/project/receiptprocessor/controller/ReceiptController.java
+/Users/shrutiujlan/Documents/work/projects/receipt-processor/src/main/java/com/project/receiptprocessor/model/Item.java
+/Users/shrutiujlan/Documents/work/projects/receipt-processor/src/main/java/com/project/receiptprocessor/model/Receipt.java
+/Users/shrutiujlan/Documents/work/projects/receipt-processor/src/main/java/com/project/receiptprocessor/model/ReceiptResponse.java
+/Users/shrutiujlan/Documents/work/projects/receipt-processor/src/main/java/com/project/receiptprocessor/service/ReceiptService.java
+/Users/shrutiujlan/Documents/work/projects/receipt-processor/src/main/java/com/project/receiptprocessor/util/ReceiptPointsCalculator.java

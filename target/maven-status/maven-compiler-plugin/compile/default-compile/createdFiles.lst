@@ -1,0 +1,6 @@
+com/project/receiptprocessor/ReceiptProcessorApplication.class
+com/project/receiptprocessor/model/Receipt.class
+com/project/receiptprocessor/controller/ReceiptController.class
+com/project/receiptprocessor/model/ReceiptResponse.class
+com/project/receiptprocessor/service/ReceiptService.class
+com/project/receiptprocessor/model/Item.class
