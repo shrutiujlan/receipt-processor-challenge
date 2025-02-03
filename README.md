@@ -1,7 +1,3 @@
-# receipt-processor-challenge
-
-#### Step to Run the Application
-
 # Receipt Processor Challenge
 
 ## Steps to Run the Application
